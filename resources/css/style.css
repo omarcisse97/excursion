@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+}
+
+.firstTitle {
+	font-family : verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	
+}
+.firstLink p {
+	font-size: 16px;
+	color: aquamarine;
+	text-align: center;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
